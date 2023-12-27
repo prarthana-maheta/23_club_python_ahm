@@ -1,19 +1,23 @@
 print("Hello world")
 
-a = 1
-print(a)
+# a = 1
+# print(a)
 
 # a=1
 # a=2
 # print(a)
-
+#
 # a=1;b=2;c=3
 
-a,b=1,2,
-print(a,b)
+a,b,c=1,2,3
+print(a,b,c)
 
-a,b=b,a
-print(a,b)
+a,b,c=b,c,a
+# a=b
+# b=c
+# c=a
+print(a,b,c)
+
 
 '''
     tgcudhcdb
@@ -21,7 +25,15 @@ print(a,b)
     chdchdb
     bhvhvbj
      dbjf
+     hjsgvgvdbvgb
+     kchvdcjhvg
+     kjhgvjhgc
 '''
+"""
+kjhbjkjhgv
+kjbkjhvcv
+kjhgfcvkjvcx
+"""
 
 # task 1:
 # create 2 variables a and b
