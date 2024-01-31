@@ -26,17 +26,17 @@ keywords for looping:
 
 # Write a Python program that prints all the numbers except 3 and 6.
 # Note : Use 'continue' statement.
+# 36
+# 3,6,13,16,23,26,30
 # Expected Output : 0 1 2 4 5
 
 
 # Write a Python program to sum two integers.
 # However, if the sum is between 15 and 20 it will return 20.
 
-# print(range(15,20)))
 
 # Write a Python program that checks whether a string represents an integer or not.
 # Expected Output:
-# # i.isdigit()
 # Input a string: Python1
 # The string is  an integer.
 
