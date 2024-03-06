@@ -372,6 +372,7 @@ for k,v in a.items():
       x={'key1': 1, 'key2': 3, 'key3': 2}, 
       y={'key1': 1, 'key2': 2}
 # Expected output: key1: 1 is present in both x and y
+
       # print(f"{dict1['key']}")
 a=1
 b=2
